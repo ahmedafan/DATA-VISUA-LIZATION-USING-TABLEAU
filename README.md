@@ -1,4 +1,6 @@
-# DATA-VISUA-LIZATION-USING-TABLEAU
+#Project 2
+
+# DATA-VISUALIZATION-USING-TABLEAU
 
 In this project, I utilized Tableau to analyze and visualize COVID-19 data sourced from Our World in Data. The key objectives were to derive actionable insights and present them in an interactive and easily understandable format. Here are some highlights of the analysis:
 
